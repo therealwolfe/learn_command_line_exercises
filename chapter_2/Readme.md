@@ -12,3 +12,9 @@ By typing in "pwd" I see that I am in the chapter 2 home-work directory.
 ##4) What directory did you run that command in?
 
 I ran this command in the chapter 2 directory. 
+
+------
+## Explain the process for finding the path (in your Readme.md) with your graphical file browser (Finder on Mac).
+
+In order to use my graphical user interface on my computer to find the path, Select the item and press Command-I to open the information window for it, and then locate the path in the General section next to the keyword "Where."
+
